@@ -1,0 +1,10 @@
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\bin\Debug\UCPApplication.Dinglasa.exe.config
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\bin\Debug\UCPApplication.Dinglasa.exe
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\bin\Debug\UCPApplication.Dinglasa.pdb
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.Form1.resources
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.PanelOne.resources
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.Properties.Resources.resources
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.csproj.GenerateResource.Cache
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.exe
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.pdb
+c:\users\oo124\documents\visual studio 2012\Projects\UCPApplication.Dinglasa\UCPApplication.Dinglasa\obj\Debug\UCPApplication.Dinglasa.PanelTwo.resources
